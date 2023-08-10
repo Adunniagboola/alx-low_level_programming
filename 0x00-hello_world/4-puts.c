@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 /**
  * main - A program that print output using function put
  *
@@ -6,7 +6,7 @@
  *
  */
 int main(void)
-{
+
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
