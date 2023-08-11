@@ -17,7 +17,7 @@ int main(void)
 			{
 				if (!((i == j) || (j == k) || (k > j) || (j > i)))
 				{
-					putchar(k)
+					putchar(k);
 					putchar(j);
 					putchar(i);
 					if (!(i == '9' && j == '8' && k == '7'))
